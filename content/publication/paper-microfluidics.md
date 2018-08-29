@@ -29,10 +29,10 @@ projects = []
 tags = []
 
 # Links (optional).
-
+url_pdf = "pdf/paper-microfluidics.pdf"
 # Videos
 url_custom = [
-    {name = "Full Text", url = "http://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00620a/unauth#!divAbstract"},
+    {name = "Link", url = "http://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00620a/unauth#!divAbstract"},
     {name = "Supplemental Video 1", url = "https://www.youtube.com/watch?v=6WrLAjjTLk4"},
     {name = "Supplemental Video 2", url = "https://www.youtube.com/watch?v=vBtUGgJ4_AA"}]
 
@@ -46,7 +46,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "paper-microfluidics.gif"
+caption = "Origami based paper microfluidics"
 
 +++

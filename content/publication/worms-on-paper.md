@@ -1,5 +1,5 @@
 +++
-title = "A fast, reconfigurable flow switch for paper microfluidics based on selective wetting of folded paper actuator strips"
+title = "Flexible and disposable paper- and plastic-based gel micropads for nematode handling, imaging, and chemical testing"
 date = 2017-10-09T00:00:00
 draft = false
 
@@ -29,10 +29,10 @@ projects = []
 tags = []
 
 # Links (optional).
-
+url_pdf = "pdf/paper-and-plastic.pdf"
 # Videos
 url_custom = [
-    {name = "Full Text", url = "https://aip.scitation.org/doi/abs/10.1063/1.5005829"}]
+    {name = "Link", url = "https://aip.scitation.org/doi/abs/10.1063/1.5005829"}]
 
 
 # Does this page contain LaTeX math? (true/false)
@@ -44,7 +44,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "paper-and-plastic.png"
+caption = "Paper- and Plastic-based gel micropads for nematode handling and testing "
 
 +++

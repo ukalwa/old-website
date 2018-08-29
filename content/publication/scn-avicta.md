@@ -29,9 +29,9 @@ projects = []
 tags = []
 
 # Links (optional).
-
+url_pdf = "pdf/avicta.pdf"
 url_custom = [
-    {name = "Full Text", url = "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-01-18-0086-RE"}]
+    {name = "Link", url = "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-01-18-0086-RE"}]
 
 
 # Does this page contain LaTeX math? (true/false)

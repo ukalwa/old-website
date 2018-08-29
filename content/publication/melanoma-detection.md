@@ -29,7 +29,7 @@ projects = []
 tags = []
 
 # Links (optional).
-
+# url_pdf = "pdf/static-magnetic-fields-celegans.pdf"
 url_custom = [
 #    {name = "Full Text", url = "https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-10-17-0339-R"},
     {name = "Android application", url = "https://github.com/ukalwa/melanoma-detection"},

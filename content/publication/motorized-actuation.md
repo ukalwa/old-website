@@ -29,10 +29,10 @@ projects = []
 tags = []
 
 # Links (optional).
-
+url_pdf = "pdf/motorized-actuation.pdf"
 # Videos
 url_custom = [
-    {name = "Full Text", url = "http://pubs.rsc.org/en/content/articlelanding/2016/lc/c6lc00176a/unauth#!divAbstract"},
+    {name = "Link", url = "http://pubs.rsc.org/en/content/articlelanding/2016/lc/c6lc00176a/unauth#!divAbstract"},
     {name = "Supplemental Video 1", url = "https://www.youtube.com/watch?v=j58pxIaBLZo"},
     {name = "Supplemental Video 2", url = "https://www.youtube.com/watch?v=X8R4cjJTkP4"}]
 
@@ -46,7 +46,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "motorized-actuation.gif"
+caption = "Motorized actuation system for droplet microfluidics"
 
 +++

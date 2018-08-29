@@ -29,9 +29,9 @@ projects = []
 tags = []
 
 # Links (optional).
-
+url_pdf = "pdf/static-magnetic-fields-celegans.pdf"
 url_custom = [
-    {name = "Full Text", url = "http://file.scirp.org/Html/1-7301107_59434.htm###"}]
+    {name = "Link", url = "http://file.scirp.org/Html/1-7301107_59434.htm###"}]
 
 
 # Does this page contain LaTeX math? (true/false)
@@ -43,6 +43,9 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
+# image = "static-magnetic-fields-celegans.png"
+# caption = "Setup to test effects of magnetic fields in c.elegans"
+
 image = ""
 caption = ""
 
